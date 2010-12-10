@@ -17,7 +17,7 @@
 
 Name:           mingw32-freetype
 Version:        2.3.8
-Release:        %mkrel 2
+Release:        %mkrel 3
 Summary:        Free and portable font rendering engine
 
 License:        FTL or GPLv2+
