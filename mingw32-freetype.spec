@@ -21,7 +21,7 @@ Release:        %mkrel 3
 Summary:        Free and portable font rendering engine
 
 License:        FTL or GPLv2+
-URL:            http://www.freetype.org
+URL:            https://www.freetype.org
 Source:         http://download.savannah.gnu.org/releases/freetype/freetype-%{version}.tar.bz2
 Source1:        http://download.savannah.gnu.org/releases/freetype/freetype-doc-%{version}.tar.bz2
 #Source2:        http://download.savannah.gnu.org/releases/freetype/ft2demos-%{version}.tar.bz2
