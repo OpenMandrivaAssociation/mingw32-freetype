@@ -38,6 +38,7 @@ Patch89:        freetype-2.2.1-memcpy-fix.patch
 
 BuildArch:      noarch
 
+BuildRequires:	make
 BuildRequires:  mingw32-filesystem >= 25
 BuildRequires:  mingw32-gcc
 BuildRequires:  mingw32-binutils
